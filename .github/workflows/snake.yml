@@ -1,0 +1,44 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate burgundy contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: cendonthamyle
+          outputs: |
+            assets/contribution-snake.svg?palette=github-dark&color_snake=#C995A5&color_dots=#161116,#35151F,#591D30,#802B45,#AD4563
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save updated animation
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-snake.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update contribution snake"
+          git push

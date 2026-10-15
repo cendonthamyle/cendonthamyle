@@ -1,194 +1,225 @@
-<!--
-PROFILE SETUP
-1. Create a public repository named cendonthamyle under your GitHub account.
-2. Save this file as README.md in that repository.
-3. To enable the contribution snake, create .github/workflows/snake.yml
-   using the workflow at the end of this file, then run it from the Actions tab.
-
-The banner and dashboard images use external SVG services.
-Their availability and refresh times depend on their providers.
-The snake image appears after the workflow's first successful run.
--->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,65:260E17,100:651C32&height=220&section=header&text=THAMYLE%20CENDON&fontSize=46&fontColor=F5EFF1&fontAlignY=43&desc=RESEARCH%20%2F%20OPTIMIZATION%20%2F%20SOFTWARE%20%2F%20ML&descSize=13&descAlignY=66"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B0D,65:35151F,100:722F37&height=210&section=header&text=Thamyle%20Cendon&fontSize=44&fontColor=F5EFF1&fontAlignY=43&desc=Research%20%C2%B7%20Optimization%20%C2%B7%20Machine%20Learning%20%C2%B7%20Software%20Engineering&descSize=13&descAlignY=65&descColor=F5EFF1"
     width="100%"
-    alt="Thamyle Cendon — Research, Optimization, Software Engineering and Machine Learning"
+    alt="Thamyle Cendon — Research, Optimization, Machine Learning and Software Engineering"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1100&color=B85A76&center=true&vCenter=true&width=700&height=45&lines=Research+questions.+Software+solutions.;Optimization+%26+machine+learning.;From+longitudinal+data+to+web+applications."
-    alt="Research questions. Software solutions. Optimization and machine learning. From longitudinal data to web applications."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3400&pause=1400&color=B85A76&center=true&vCenter=true&width=760&height=42&lines=Questions+on+paper.+Experiments+in+code.;From+understanding+data+to+testing+ideas.;Optimization+%26+Machine+Learning."
+    alt="Questions on paper. Experiments in code. From understanding data to testing ideas. Optimization and Machine Learning."
   />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thamyle-cendon-028a17353/">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-651C32?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://github.com/cendonthamyle?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-151518?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+    <img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-651C32?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
   </a>
 </p>
 
-<br />
+---
 
-## 01 / About me
+### About me
 
-I'm **Thamyle Cendon**. My areas of interest are research, optimization, software engineering, and machine learning.
+I'm **Thamyle Cendon**, a third-semester Computer Science student at the Federal University of Paraíba (UFPB), with interests in research, optimization, machine learning, and software engineering.
 
-My projects span two different kinds of problems: predicting cognitive decline from longitudinal ADNI data and building a property listing and negotiation platform for smaller real estate businesses.
+I've always been curious. Discovering an unfamiliar idea or finding a new way to understand something is what draws me to learning. My interest in research grew from that same curiosity: there wasn't a single defining moment, just a continuing desire to know more and follow new questions.
 
-This profile brings both sides of my work together: research with data and software built around a practical need.
-
-<br />
-
-## 02 / Technologies
+### Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-151518?style=for-the-badge&logo=python&logoColor=D18A9D" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-651C32?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-151518?style=for-the-badge&logo=c&logoColor=D18A9D" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-651C32?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-151518?style=for-the-badge&logo=mysql&logoColor=D18A9D" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-161116?style=for-the-badge&logo=python&logoColor=D18A9D" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-161116?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-161116?style=for-the-badge&logo=c&logoColor=D18A9D" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-161116?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-161116?style=for-the-badge&logo=mysql&logoColor=D18A9D" alt="MySQL" />
 </p>
 
-<br />
-
-## 03 / Selected projects
+### Selected projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>01 — ADNI · Cognitive Decline</h3>
-      <img src="https://img.shields.io/badge/RESEARCH-651C32?style=flat-square" alt="Research project" />
-      <img src="https://img.shields.io/badge/LONGITUDINAL%20DATA-151518?style=flat-square" alt="Longitudinal data" />
+    <td valign="top">
+      <h3>ADNI · Longitudinal Cognitive Decline</h3>
       <p>
-        A research project to predict progression from mild cognitive impairment
-        (MCI) to Alzheimer's disease (AD) within 24 months.
+        <img src="https://img.shields.io/badge/Research-722F37?style=flat-square" alt="Research" />
+        <img src="https://img.shields.io/badge/Longitudinal_data-21171C?style=flat-square" alt="Longitudinal data" />
+        <img src="https://img.shields.io/badge/In_progress-4B303A?style=flat-square" alt="In progress" />
       </p>
       <p>
-        Uses longitudinal clinical, cognitive, and functional data from the
-        Alzheimer's Disease Neuroimaging Initiative (ADNI).
+        Research project to predict progression from mild cognitive impairment
+        (MCI) to Alzheimer's disease (AD) within <strong>24 months</strong>,
+        using longitudinal clinical, cognitive, and functional data from ADNI.
       </p>
       <p>
         <a href="https://github.com/cendonthamyle/ADNI_Longitudinal_Cognitive_Decline">
-          <strong>Explore the research →</strong>
+          Explore repository ↗
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>02 — FlexOLX</h3>
-      <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-651C32?style=flat-square" alt="Software engineering project" />
-      <img src="https://img.shields.io/badge/REAL%20ESTATE-151518?style=flat-square" alt="Real estate" />
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Bayesian Optimization · Reproduction Benchmark</h3>
       <p>
-        A property listing and negotiation system designed as a lower-cost
-        alternative for independent agents, small agencies, and construction
-        companies with smaller marketing budgets.
+        <img src="https://img.shields.io/badge/Optimization-722F37?style=flat-square" alt="Optimization" />
+        <img src="https://img.shields.io/badge/Reproduction-21171C?style=flat-square" alt="Reproduction benchmark" />
+        <img src="https://img.shields.io/badge/In_progress-4B303A?style=flat-square" alt="In progress" />
       </p>
       <p>
-        Includes a console version for testing and a main application with a
-        Spring Boot REST API and a React front end.
+        A reproduction benchmark comparing Bayesian optimization strategies
+        on published experimental datasets. The project evaluates
+        <strong>Gaussian Process and Random Forest surrogates against random search</strong>,
+        focusing on solution quality, evaluation efficiency, and reproducibility.
       </p>
       <p>
-        <a href="https://github.com/cendonthamyle/FlexOLX">
-          <strong>Explore the platform →</strong>
+        <a href="https://github.com/cendonthamyle/Bayesian_Optimization_Benchmark">
+          Explore repository ↗
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Parkinson’s Data Leakage · Reproduction Study</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Machine_learning-722F37?style=flat-square" alt="Machine learning" />
+        <img src="https://img.shields.io/badge/Reproduction-21171C?style=flat-square" alt="Reproduction study" />
+        <img src="https://img.shields.io/badge/In_progress-4B303A?style=flat-square" alt="In progress" />
+      </p>
+      <p>
+        A Python reproduction study investigating how data leakage affects
+        Parkinson’s disease classification from voice measurements.
+        The project compares <strong>record-wise and participant-wise evaluation</strong>
+        to examine identity confounding and improve the reliability
+        of machine learning experiments.
+      </p>
+      <p>
+        <a href="https://github.com/cendonthamyle/Parkinsons_Data_Leakage_Reproduction">
+          Explore repository ↗
         </a>
       </p>
     </td>
   </tr>
 </table>
 
+### Languages
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Language</th>
+      <th align="left">Proficiency</th>
+      <th align="center">CEFR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Portuguese</strong><br /><sub>Português</sub></td>
+      <td>Native language</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td><strong>English</strong></td>
+      <td>Advanced</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C1-722F37?style=flat-square" alt="English: CEFR C1" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Spanish</strong><br /><sub>Español</sub></td>
+      <td>Advanced</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C1-722F37?style=flat-square" alt="Spanish: CEFR C1" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### GitHub activity
+
+<p>
+  <sub>A view of my repositories, language usage, and contributions.</sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cendonthamyle&show_icons=true&hide_rank=true&hide_border=false&border_color=351F29&bg_color=0D0B0D&title_color=D18A9D&text_color=E7DDE1&icon_color=B85A76&border_radius=12&custom_title=Repository%20overview"
+    height="170"
+    alt="GitHub repository statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cendonthamyle&layout=compact&langs_count=6&hide_border=false&border_color=351F29&bg_color=0D0B0D&title_color=D18A9D&text_color=E7DDE1&border_radius=12&custom_title=Languages%20in%20my%20repositories"
+    height="170"
+    alt="Language distribution across repositories"
+  />
+</p>
+
+<p align="center">
+  <sub>Language distribution reflects repository contents, rather than proficiency.</sub>
+</p>
+
 <br />
 
-## 04 / Languages
-
-| Language | Proficiency |
-| :--- | :--- |
-| Portuguese | Native |
-| English | C1 — Advanced |
-| Spanish | C1 — Advanced |
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=cendonthamyle&hide_border=false&border=351F29&border_radius=12&background=0D0B0D&ring=A66A7E&fire=C995A5&currStreakNum=F5EFF1&sideNums=F5EFF1&currStreakLabel=D18A9D&sideLabels=E7DDE1&dates=AA939C&stroke=351F29"
+    width="520"
+    alt="Total contributions, current streak, and longest contribution streak"
+  />
+</p>
 
 <br />
 
-## 05 / GitHub activity
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=cendonthamyle&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=D18A9D&text_color=E7DDE1&icon_color=B85A76&border_radius=12"
-    height="175"
-    alt="Thamyle Cendon's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cendonthamyle&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=D18A9D&text_color=E7DDE1&border_radius=12"
-    height="175"
-    alt="Most used languages in Thamyle Cendon's public repositories"
-  />
-</p>
-
-<p align="center">
-  <sub>Language statistics reflect repository code, rather than proficiency.</sub>
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=cendonthamyle&hide_border=true&background=0D0D0F&ring=B85A76&fire=D18A9D&currStreakNum=F5EFF1&sideNums=F5EFF1&currStreakLabel=D18A9D&sideLabels=E7DDE1&dates=AA939C&stroke=651C32&border_radius=12"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cendonthamyle&bg_color=0D0D0F&color=D18A9D&line=9B3655&point=E7DDE1&area=true&area_color=651C32&hide_border=true&radius=12&custom_title=Thamyle%20Cendon%20%E2%80%94%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cendonthamyle&bg_color=0D0B0D&color=D18A9D&line=A66A7E&point=D8B9C2&area=false&hide_border=true&hide_title=true&radius=12&height=260"
     width="100%"
-    alt="Recent GitHub contribution activity"
+    alt="Recent GitHub contributions over time"
   />
 </p>
 
-<br />
-
-### GitHub trophies
-
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=cendonthamyle&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"
-    alt="GitHub profile trophies"
-  />
+  <sub>Recent contribution history</sub>
 </p>
 
-<br />
-
-### Contributions, in motion
+### Contribution trail
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/cendonthamyle/cendonthamyle/main/assets/contribution-snake.svg"
+    src="assets/contribution-snake.svg"
     width="100%"
-    alt="Animated snake moving through my GitHub contribution grid"
+    alt="Animated snake tracing my GitHub contribution grid in burgundy"
   />
 </p>
-
-<br />
 
 ---
 
 <p align="center">
-  <strong>THAMYLE CENDON</strong><br />
+  <strong>Thamyle Cendon</strong><br />
   <sub>Research · Optimization · Software Engineering · Machine Learning</sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thamyle-cendon-028a17353/">LinkedIn</a>
-  &nbsp; / &nbsp;
+  &nbsp; · &nbsp;
   <a href="https://github.com/cendonthamyle">GitHub</a>
-  &nbsp; / &nbsp;
+  &nbsp; · &nbsp;
   <a href="https://github.com/cendonthamyle?tab=repositories">Projects</a>
 </p>
 
 <p align="center">
   <img
-    src="https://caps
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:722F37,55:35151F,100:0D0B0D&height=6&section=footer"
+    width="100%"
+    alt="Burgundy gradient footer"
+  />
+</p>
