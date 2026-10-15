@@ -179,18 +179,6 @@ I've always been curious. Discovering an unfamiliar idea or finding a new way to
 
 <br />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cendonthamyle&bg_color=0D0B0D&color=D18A9D&line=A66A7E&point=D8B9C2&area=false&hide_border=true&hide_title=true&radius=12&height=260"
-    width="100%"
-    alt="Recent GitHub contributions over time"
-  />
-</p>
-
-<p align="center">
-  <sub>Recent contribution history</sub>
-</p>
-
 ### Contribution trail
 
 <p align="center">
